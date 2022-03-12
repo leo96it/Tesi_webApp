@@ -1,0 +1,165 @@
+Date:	21/02/2022 11:24					
+Tool:	Eeschema (5.1.5)-3					
+Component Count:	115					
+						
+Individual Components:						
+						
+Item	Qty	Reference(s)	Value	LibPart	Footprint	Datasheet
+		C1	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C2	100uF	Device:CP1_Small		~
+		C3	220nF_MKP-X2	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+		C4	220nF_MKP-X2	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+		C5	10uF	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+		C6	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C7	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C8	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C9	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C10	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C11	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C12	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C13	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C14	10uF	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+		C15	10uF	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+		C16	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C17	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C18	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C19	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C20	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C21	100nF	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+		C22	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C23	1uF	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+		C24	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C25	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C26	100uF	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+		C27	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C28	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C29	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		C30	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+		D1	BAV99	Diode:BAV99	Package_TO_SOT_SMD:SOT-23	https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf
+		D2	ledGreenPos1	Device:LED	LED_SMD:LED_0805_2012Metric	~
+		D3	LED_5v	Device:LED	LED_SMD:LED_0805_2012Metric	~
+		D4	ledGreenPos2	Device:LED	LED_SMD:LED_0805_2012Metric	~
+		D5	ledGreenPos3	Device:LED	LED_SMD:LED_0805_2012Metric	~
+		D6	ledRedPos1	Device:LED	LED_SMD:LED_0805_2012Metric	~
+		D7	LED_3.3v	Device:LED	LED_SMD:LED_0805_2012Metric	~
+		D8	ledRedPos2	Device:LED	LED_SMD:LED_0805_2012Metric	~
+		D9	ledRedPos3	Device:LED	LED_SMD:LED_0805_2012Metric	~
+		H1	MountingHole	Mechanical:MountingHole	MountingHole:MountingHole_3.2mm_M3	~
+		H2	MountingHole	Mechanical:MountingHole	MountingHole:MountingHole_3.2mm_M3	~
+		H3	MountingHole	Mechanical:MountingHole	MountingHole:MountingHole_3.2mm_M3	~
+		H4	MountingHole	Mechanical:MountingHole	MountingHole:MountingHole_3.2mm_M3	~
+		J1	Jack_12v_DC	Connector:Barrel_Jack_Switch	Librerie_LEO:jack_alimentazione_switchcraft	~
+		J2	ingresso Vcc	Connector:Screw_Terminal_01x02	Librerie_LEO:morsetto_2vie_grande	~
+		J3	Motor OUT	Connector:Screw_Terminal_01x02		~
+		J4	PNP_proximity0	Connector:Screw_Terminal_01x03		~
+		J5	PNP_proximity2	Connector:Screw_Terminal_01x03		~
+		J6	PNP_proximity1	Connector:Screw_Terminal_01x03		~
+		J7	PNP_proximity3	Connector:Screw_Terminal_01x03		~
+		K1	SANYOU_SRD_Form_A	Relay:SANYOU_SRD_Form_A	Relay_THT:Relay_SPST_SANYOU_SRD_Series_Form_A	http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+		L1	6/8mH_modo comune	Device:L_Core_Ferrite_Coupled_Small		~
+		Q1	BC817	Transistor_BJT:BC817	Package_TO_SOT_SMD:SOT-23	http://www.fairchildsemi.com/ds/BC/BC817.pdf
+		Q2	BC817	Transistor_BJT:BC817	Package_TO_SOT_SMD:SOT-23	http://www.fairchildsemi.com/ds/BC/BC817.pdf
+		Q3	BC817	Transistor_BJT:BC817	Package_TO_SOT_SMD:SOT-23	http://www.fairchildsemi.com/ds/BC/BC817.pdf
+		Q4	BC817	Transistor_BJT:BC817	Package_TO_SOT_SMD:SOT-23	http://www.fairchildsemi.com/ds/BC/BC817.pdf
+		Q5	BC817	Transistor_BJT:BC817	Package_TO_SOT_SMD:SOT-23	http://www.fairchildsemi.com/ds/BC/BC817.pdf
+		Q6	BC817	Transistor_BJT:BC817	Package_TO_SOT_SMD:SOT-23	http://www.fairchildsemi.com/ds/BC/BC817.pdf
+		Q7	BC817	Transistor_BJT:BC817	Package_TO_SOT_SMD:SOT-23	http://www.fairchildsemi.com/ds/BC/BC817.pdf
+		R1	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R2	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R3	4,7R	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R4	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R5	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R6	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R7	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R8	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R9	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R10	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R11	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R12	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R13	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R14	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R15	27K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R16	27K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R17	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R18	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R19	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R20	15K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R21	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R22	15K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R23	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R24	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R25	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R26	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R27	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R28	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R29	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R30	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R31	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R32	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R33	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R34	27K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R35	27K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R36	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R37	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R38	15K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R39	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R40	15K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R41	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R42	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R43	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R44	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R45	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R46	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		R47	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+		SW1	Start	Switch:SW_Push		~
+		SW2	Start	Switch:SW_Push		~
+		U1	ESP32_devkit_V1_30pin	Librerie_LEO:ESP32_devkit_V1_30pin		
+		U2	AMS1117-5.0	Regulator_Linear:AMS1117-5.0	Package_TO_SOT_SMD:SOT-223-3_TabPin2	http://www.advanced-monolithic.com/pdf/ds1117.pdf
+		U3	LM1117-3.3	Regulator_Linear:LM1117-3.3	Package_TO_SOT_SMD:SOT-223-3_TabPin2	http://www.ti.com/lit/ds/symlink/lm1117.pdf
+		U4	SFH618x	Librerie_LEO:SFH618x		
+		U5	SFH618x	Librerie_LEO:SFH618x		
+		U6	SFH618x	Librerie_LEO:SFH618x		
+		U7	SFH618x	Librerie_LEO:SFH618x		
+						
+						
+						
+Collated Components:						
+						
+Item	Qty	Reference(s)	Value	LibPart	Footprint	Datasheet
+1	21	C1, C6, C7, C8, C9, C10, C11, C12, C13, C16, C17, C18, C19, C20, C22, C24, C25, C27, C28, C29, C30	100nF	Device:C_Small	Capacitor_SMD:C_0603_1608Metric	~
+2	1	C2	100uF	Device:CP1_Small		~
+3	2	C3, C4	220nF_MKP-X2	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+4	3	C5, C14, C15	10uF	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+5	1	C21	100nF	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+6	1	C23	1uF	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+7	1	C26	100uF	Device:CP1	Capacitor_THT:CP_Radial_D4.0mm_P2.00mm	~
+8	1	D1	BAV99	Diode:BAV99	Package_TO_SOT_SMD:SOT-23	https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf
+9	1	D2	ledGreenPos1	Device:LED	LED_SMD:LED_0805_2012Metric	~
+10	1	D3	LED_5v	Device:LED	LED_SMD:LED_0805_2012Metric	~
+11	1	D4	ledGreenPos2	Device:LED	LED_SMD:LED_0805_2012Metric	~
+12	1	D5	ledGreenPos3	Device:LED	LED_SMD:LED_0805_2012Metric	~
+13	1	D6	ledRedPos1	Device:LED	LED_SMD:LED_0805_2012Metric	~
+14	1	D7	LED_3.3v	Device:LED	LED_SMD:LED_0805_2012Metric	~
+15	1	D8	ledRedPos2	Device:LED	LED_SMD:LED_0805_2012Metric	~
+16	1	D9	ledRedPos3	Device:LED	LED_SMD:LED_0805_2012Metric	~
+17	4	H1, H2, H3, H4	MountingHole	Mechanical:MountingHole	MountingHole:MountingHole_3.2mm_M3	~
+18	1	J1	Jack_12v_DC	Connector:Barrel_Jack_Switch	Librerie_LEO:jack_alimentazione_switchcraft	~
+19	1	J2	ingresso Vcc	Connector:Screw_Terminal_01x02	Librerie_LEO:morsetto_2vie_grande	~
+20	1	J3	Motor OUT	Connector:Screw_Terminal_01x02		~
+21	1	J4	PNP_proximity0	Connector:Screw_Terminal_01x03		~
+22	1	J5	PNP_proximity2	Connector:Screw_Terminal_01x03		~
+23	1	J6	PNP_proximity1	Connector:Screw_Terminal_01x03		~
+24	1	J7	PNP_proximity3	Connector:Screw_Terminal_01x03		~
+25	1	K1	SANYOU_SRD_Form_A	Relay:SANYOU_SRD_Form_A	Relay_THT:Relay_SPST_SANYOU_SRD_Series_Form_A	http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+26	1	L1	6/8mH_modo comune	Device:L_Core_Ferrite_Coupled_Small		~
+27	7	Q1, Q2, Q3, Q4, Q5, Q6, Q7	BC817	Transistor_BJT:BC817	Package_TO_SOT_SMD:SOT-23	http://www.fairchildsemi.com/ds/BC/BC817.pdf
+28	25	R1, R4, R6, R7, R8, R11, R13, R14, R17, R19, R21, R23, R26, R27, R28, R30, R31, R32, R36, R37, R39, R41, R45, R46, R47	1K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+29	13	R2, R5, R9, R10, R12, R18, R24, R25, R29, R33, R42, R43, R44	10K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+30	1	R3	4,7R	Device:R	Resistor_SMD:R_0603_1608Metric	~
+31	4	R15, R16, R34, R35	27K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+32	4	R20, R22, R38, R40	15K	Device:R	Resistor_SMD:R_0603_1608Metric	~
+33	2	SW1, SW2	Start	Switch:SW_Push		~
+34	1	U1	ESP32_devkit_V1_30pin	Librerie_LEO:ESP32_devkit_V1_30pin		
+35	1	U2	AMS1117-5.0	Regulator_Linear:AMS1117-5.0	Package_TO_SOT_SMD:SOT-223-3_TabPin2	http://www.advanced-monolithic.com/pdf/ds1117.pdf
+36	1	U3	LM1117-3.3	Regulator_Linear:LM1117-3.3	Package_TO_SOT_SMD:SOT-223-3_TabPin2	http://www.ti.com/lit/ds/symlink/lm1117.pdf
+37	4	U4, U5, U6, U7	SFH618x	Librerie_LEO:SFH618x		

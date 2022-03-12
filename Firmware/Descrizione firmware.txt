@@ -1,0 +1,18 @@
+Simulazione di uno scenario industriale, con sensori vari.
+
+1. Ad inzio linea è presente un proximity che rileva la presenza o meno del pezzo
+
+2. L'avvia del ciclo di produzione della linea è fatto tramite pulsante START
+
+3. Per ogni stazione sarà presente un proximity per rilevare se il pezzo è arrivato nella stazione ed iniziare quindi la lavorazione
+
+4. La lavorazione è attualmente simulata con un generatore di numeri casuali, il quale simula un PASS/FAIL della lavorazione 
+
+5. In ogni stazione saranno presenti 2 led, verde (tutto ok) e rosso (lavorazione con errori)
+
+6. I led verdi lampeggerenno, tutti: se il pezzo si trova nella postazione 0, ultimi 2: se il pezzo si trova nella postazione 1, solo ultimo: se il pezzo si trova nella postazione 2, nessuno: se il pezzo ha terminato tutto il ciclo e ritorna nella postazione 0.
+Ogni volta che il pezzo attraversa una postazione il relativo led diventerà verde fisso se la lavorazione è andata a buon fine o rosso fisso (con relativo blocco impianto) se c'è stato qualche errore
+
+7. Se la lavorazione va in errore si prevede che l'operatore sistemi l'errore e poi tramite pulsante RESET faccia ripartire l'impianto
+
+8. I dati vengono inviati al server ad ogni PASS/FAIL oppure all'uscita del pezzo dalla linea
