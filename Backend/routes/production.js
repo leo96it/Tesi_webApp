@@ -66,7 +66,7 @@ router.post("/inserisci", (req,res) =>
     res.send("Ricevuto").status(200);
 
     //inserisce nuova riga nel DB
-    //addRow({idMachinery,idProduct,position,status,errorCode});
+    addRow({idMachinery,idProduct,position,status,errorCode});
 });
 
 
