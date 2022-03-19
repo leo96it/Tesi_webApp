@@ -44,7 +44,7 @@ void loop()
       {
         Serial.println("Lavorazione OK, passaggio a stazione 2");
         pass = true;
-        errorCode = 0;
+        errorCode = 200;
         stampaMessaggio();
         sendMessage();
         delay(2000);
@@ -67,7 +67,7 @@ void loop()
       {
         Serial.println("Lavorazione OK, passaggio a stazione 3");
         pass = true;
-        errorCode = 0;
+        errorCode = 200;
         stampaMessaggio();
         sendMessage();
         delay(2000);
@@ -91,7 +91,7 @@ void loop()
       {
         Serial.println("Lavorazione OK, attesa uscita pezzo");
         pass = true;
-        errorCode = 0;
+        errorCode = 200;
         stampaMessaggio();
         sendMessage();
         delay(2000);
@@ -114,7 +114,7 @@ void loop()
       Serial.println("Pezzo estratto, caricare un nuovo pezzo");
       counter++;
       pass = true;
-      errorCode = 0;
+      errorCode = 200;
       stampaMessaggio();
       sendMessage();
       delay(5000);
