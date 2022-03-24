@@ -1,0 +1,68 @@
+/* Riquadro con Id machinery */
+.id
+{
+    margin-top: 30px;
+    border-style:solid;
+    border-color: gray;
+    border-width: 0.5px;
+    border-radius: 20px 20px 0 0;
+    padding: 5px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.reference-id
+{
+    padding-left: 50px;
+    font-size: 100%;
+    font-weight: normal;
+}
+
+/* Riquadro contenente tutta la scheda */
+.container
+{
+    margin-top: -1px; 
+    margin-bottom: 50px;
+}
+
+.scheda
+{
+    border-style: solid;
+    border-color: gray;
+    border-width: 0.5px;
+    border-radius: 0 20px 20px 20px;
+}
+
+.line
+{
+    border-left: 1px solid gray;
+    height: 100%;
+}
+
+.image
+{ 
+    margin: -0.5px;
+    border-radius: 0 0px 0px 20px;
+    position: relative;
+}
+
+
+.resize
+{
+    max-width: 300px;
+    max-height: 200px;
+    padding: 10px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%,-50%);
+}
+
+.row
+{
+    font-size: 16px;
+}

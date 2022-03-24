@@ -1,0 +1,24 @@
+
+<header>
+    <!-- Form machinery research -->
+    <form class="form-inline">  
+        <div class="form-group mx-sm-3 mb-2">
+            <input type="search" name="machineryID" class="form-control" 
+            placeholder="ID machinery..." required="#" [(ngModel)]="selected_idMachinery">
+        </div>
+        <div class="form-group">
+            <button type="button" name="searchButton" class="btn btn-primary mb-2"
+            (click)="selectMachinery($event)">Search</button>
+
+            <button type="button" name="reloadButton" class="btn btn-secondary mb-2 ml-2"
+            (click)="reloadMachinery($event)">Reload</button>
+        </div>
+    </form>  
+    <div class="allert-message"> {{ message }} </div>
+
+    <!-- Products cards data -->
+    <div *ngFor="let machine of machineryData">
+        <app-card [machineData]="machine"></app-card>
+    </div>
+    
+</header>

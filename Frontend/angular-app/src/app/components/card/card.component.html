@@ -1,0 +1,58 @@
+<div class="container">
+
+    <!--Schede-->
+    <div class="id col-4 col-max-4">
+        <h5>ID Machinery: <span class="reference-id"> {{machineData.idMachinery}} </span> </h5>  
+    </div>
+
+    <div class="container scheda">
+        <div class="row">
+            <div class="col-4 image">
+                <div [ngSwitch]="machineData.idProduct">
+                    <div *ngSwitchCase="'#df431'"> <img class="resize" alt="product image" src="assets/productImage/biellaNEMA.png"> </div>
+                    <div *ngSwitchCase="'#kg848'"> <img class="resize" alt="product image" src="assets/productImage/chiave-disasse.png"> </div>
+                    <div *ngSwitchCase="'#dp973'"> <img class="resize" alt="product image" src="assets/productImage/giunto4p.png"> </div>
+                    <div *ngSwitchCase="'#qa345'"> <img class="resize" alt="product image" src="assets/productImage/piastra-perno.png"> </div>
+                    <div *ngSwitchCase="'#lg059'"> <img class="resize" alt="product image" src="assets/productImage/piastra-slitta.png"> </div>
+                    <div *ngSwitchCase="'#ps374'"> <img class="resize" alt="product image" src="assets/productImage/supporto3rf.png"> </div>
+                    <div *ngSwitchCase="'#oe385'"> <img class="resize" alt="product image" src="assets/productImage/supporto4rf.png"> </div>
+                    <div *ngSwitchDefault>Product not identified</div>
+                </div>
+            </div>
+
+            <div class="col-sm line">
+                <table class="table">
+                    <tr>
+                        <th scope="row">ID product:</th>
+                        <td>{{machineData.idProduct}}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Position:</th>
+                        <td [ngStyle]="{color: 'blue'}">{{machineData.position}}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Status:</th>
+                        <td *ngIf="machineData.status === true; else error" [ngStyle]="{color: 'green'}">In production</td>
+                        <ng-template #error> <td [ngStyle]="{color: 'red'}">Error</td> </ng-template>
+                    </tr>
+                    <tr>
+                        <th scope="row">Error Code:</th>
+                        <div [ngSwitch]="machineData.errorCode" [ngStyle]="{color: 'red'}"> 
+                            <div *ngSwitchCase="101">{{machineData.errorCode}}: Temperature exceed</div>
+                            <div *ngSwitchCase="105">{{machineData.errorCode}}: Low pressure</div>
+                            <div *ngSwitchCase="108">{{machineData.errorCode}}: No lubricant</div>
+                            <div *ngSwitchCase="110">{{machineData.errorCode}}: Error reading sensor</div>
+                            <div *ngSwitchCase="115">{{machineData.errorCode}}: Bus data error</div>
+                            <div *ngSwitchCase="144">{{machineData.errorCode}}: Engine band error</div>
+                            <div *ngSwitchCase="309">{{machineData.errorCode}}: Maintenance required</div>
+                            <div *ngSwitchCase="200"></div>
+                            <div *ngSwitchDefault>{{machineData.errorCode}}: Generic call assistance</div>
+                        </div>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <hr> <!-- Linea orizzontale -->
+</div>
+

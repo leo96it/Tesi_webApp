@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="423.33334mm"
+   height="211.66667mm"
+   viewBox="0 0 423.33334 211.66667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="001aude.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.92648709"
+     inkscape:cx="848.90551"
+     inkscape:cy="422.5639"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(73.447441,-66.655128)">
+     
+    <image
+       width="423.33334"
+       height="211.66667"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="001aude.png"
+       id="image832"
+       x="-73.447441"
+       y="66.655128" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="300"
+       width="13"
+       height="13"
+       style="image-rendering:optimizeQuality"
+       xlink:href="../click.svg"
+       id="station1"
+       x="-20.727875"
+       y="191.90982"
+       onmouseover="this.style.opacity=0.8"
+       onmouseout="this.style.opacity=1">
+      <title
+         id="title1465">
+         Postazione 1: Qui l'operatore si occupa del carico dei prodotti grezzi sul nastro. Tramite il pannello posto al centro della linea, viene selezionato il programma relativo al pezzo da lavorare.
+      </title>
+    </image>
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="300"
+       width="13"
+       height="13"
+       style="image-rendering:optimizeQuality"
+       xlink:href="../click.svg"
+       id="station2"
+       x="158.61444"
+       y="222.46655"
+       onmouseover="this.style.opacity=0.8"
+       onmouseout="this.style.opacity=1">
+      <title
+         id="title1546">
+         Postazione 2: Qui avviene la prima lavorazione del pezzo, vengono effettuati i fori, vengono rettificate le quote. La fase termina con la pulitura del pezzo.
+      </title>
+    </image>
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="300"
+       width="13"
+       height="13"
+       style="image-rendering:optimizeQuality"
+       xlink:href="../click.svg"
+       id="station3"
+       x="228.47563"
+       y="133.83398"
+       onmouseover="this.style.opacity=0.8"
+       onmouseout="this.style.opacity=1">
+      <title
+         id="title1546-6">
+         Postazione 3: Qui il pezzo viene laserato con i codici identificativi e le quote di riferimento per il montaggio.
+      </title>
+    </image>
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="300"
+       width="13"
+       height="13"
+       style="image-rendering:optimizeQuality"
+       xlink:href="../click.svg"
+       id="station4"
+       x="111.67467"
+       y="130.40704"
+       onmouseover="this.style.opacity=0.8"
+       onmouseout="this.style.opacity=1">
+      <title
+         id="title1546-6-4">
+         Postazione 4: Prima di passare nella fase di imballo il pezzo passa in questa postazione dove viene effettuata una scansione 3D ad alta temperatura per verificare eventuali crepe o rotture nella struttura dell'acciaio. Infine viene etichettato e imballato.
+      </title>
+    </image>
+  </g>
+</svg>

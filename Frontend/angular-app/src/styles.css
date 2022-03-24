@@ -1,0 +1,8 @@
+/* Global CSS */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+html
+{
+    background-color: rgb(243, 243, 243);
+    min-width: 1000px;
+}

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="352.77777mm"
+   height="168.62778mm"
+   viewBox="0 0 352.77777 168.62778"
+   version="1.1"
+   id="svg2266"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="004hkhi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2268"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.46324355"
+     inkscape:cx="738.27256"
+     inkscape:cy="63.681405"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2263" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(91.286957,-25.918804)">
+    <image
+       width="352.77802"
+       height="168.62778"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="004hkhi.png"
+       id="image2994"
+       x="-91.286957"
+       y="25.918804" />
+  </g>
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="300"
+     width="10.005"
+     height="10.005"
+     style="image-rendering:optimizeQuality"
+     xlink:href="../click.svg"
+     id="station1"
+     x="81.451256"
+     y="137.83156"
+     onmouseover="this.style.opacity=0.8"
+     onmouseout="this.style.opacity=1">
+    <title
+       id="title908">Postazione 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</title>
+  </image>
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="300"
+     width="10.005"
+     height="10.005"
+     style="image-rendering:optimizeQuality"
+     xlink:href="../click.svg"
+     id="station2"
+     x="143.35471"
+     y="89.523453"
+     onmouseover="this.style.opacity=0.8"
+     onmouseout="this.style.opacity=1">
+    <title
+       id="title908-7">Postazione 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</title>
+  </image>
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="300"
+     width="10.005"
+     height="10.005"
+     style="image-rendering:optimizeQuality"
+     xlink:href="../click.svg"
+     id="station3"
+     x="250.44604"
+     y="56.96769"
+     onmouseover="this.style.opacity=0.8"
+     onmouseout="this.style.opacity=1">
+    <title
+       id="title908-5">Postazione 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</title>
+  </image>
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="300"
+     width="10.005"
+     height="10.005"
+     style="image-rendering:optimizeQuality"
+     xlink:href="../click.svg"
+     id="station4"
+     x="312.27347"
+     y="40.404232"
+     onmouseover="this.style.opacity=0.8"
+     onmouseout="this.style.opacity=1">
+    <title
+       id="title908-77">Postazione 4: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</title>
+  </image>
+</svg>

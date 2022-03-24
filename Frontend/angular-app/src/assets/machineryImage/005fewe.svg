@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="224.89583mm"
+   height="109.5375mm"
+   viewBox="0 0 224.89583 109.5375"
+   version="1.1"
+   id="svg3014"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="005fewe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3016"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.3102506"
+     inkscape:cx="456.40124"
+     inkscape:cy="215.60761"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3011" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(109.02099,-31.475481)">
+    <image
+       width="224.89583"
+       height="109.5375"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="005fewe.png"
+       id="image3185"
+       x="-109.02099"
+       y="31.475481" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="300"
+       width="8.0052881"
+       height="8.0052881"
+       style="image-rendering:optimizeQuality"
+       xlink:href="../click.svg"
+       id="station1"
+       x="-71.021492"
+       y="99.159187"
+       onmouseover="this.style.opacity=0.8"
+       onmouseout="this.style.opacity=1">
+      <title
+         id="title908">Postazione 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</title>
+    </image>
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="300"
+       width="8.0052881"
+       height="8.0052881"
+       style="image-rendering:optimizeQuality"
+       xlink:href="../click.svg"
+       id="station2"
+       x="-9.6337433"
+       y="116.72739"
+       onmouseover="this.style.opacity=0.8"
+       onmouseout="this.style.opacity=1">
+      <title
+         id="title908-9">Postazione 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</title>
+    </image>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<header>
+    <p> 
+        Selezionare l'ID machinery desiderato per aprire la rispettiva immagine, successivamente posizionarsi 
+        con il mouse sopra i vari pallini per ottenere una descrizione della relativa postazione
+    </p>
+
+    <!-- Form machinery research -->
+    <form class="form-inline">
+        <div class="col-2 ml-2">
+            <label>ID machinery: </label>
+            <select class="custom-select mr-sm-4" [(ngModel)]="selected_idMachinery" name="selectedID">
+                <option selected disabled>Select a machinery...</option>
+                <option *ngFor="let i of idsMachinery" [value]="i">{{i}}</option>
+            </select>
+        </div>
+    </form>
+</header>
+
+<body>
+    
+    <!-- Machinery image with responsive SVG -->
+    <div [ngSwitch]="selected_idMachinery">
+        <div *ngSwitchCase="'#001aude'"> <object data="assets/machineryImage/001aude.svg"></object> </div>
+        <div *ngSwitchCase="'#002ufjd'"> <object data="assets/machineryImage/002ufjd.svg"></object> </div>
+        <div *ngSwitchCase="'#003hghj'"> <object data="assets/machineryImage/003hghj.svg"></object> </div>
+        <div *ngSwitchCase="'#004hkhi'"> <object data="assets/machineryImage/004hkhi.svg"></object> </div>
+        <div *ngSwitchCase="'#005fewe'"> <object data="assets/machineryImage/005fewe.svg"></object> </div>
+        <div *ngSwitchCase="'#006dewf'"> <object data="assets/machineryImage/006dewf.svg"></object> </div>
+    </div>
+
+</body>
